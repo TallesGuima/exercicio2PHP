@@ -99,7 +99,7 @@
         1136, 
         1954, 
         Tipo::fisico, 
-        Status::emprestado 
+        Status::disponivel 
     );
 
     $livro3 = new Livro(
